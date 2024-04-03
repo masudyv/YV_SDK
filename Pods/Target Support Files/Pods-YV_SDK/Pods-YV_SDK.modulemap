@@ -1,0 +1,6 @@
+module Pods_YV_SDK {
+  umbrella header "Pods-YV_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

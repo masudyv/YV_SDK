@@ -1,0 +1,6 @@
+module Pods_YV_SDK_YV_SDKTests {
+  umbrella header "Pods-YV_SDK-YV_SDKTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
