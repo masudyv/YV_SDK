@@ -9,7 +9,7 @@ import Foundation
 
 class Constants {
     
-    static let idLength = 24
+    static let idLength = 24 //
     static let VformProdUrl = "https://vform.svc.youverify.co/v1/"
     static let VformDevUrl = "https://vform.dev.svc.youverify.co/v1/"
     static let idProdUrl = "https://identity.svc.youverify.co/"

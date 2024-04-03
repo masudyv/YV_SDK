@@ -38,7 +38,7 @@ public class YVSdk {
         if let op = options {
             
             if op.info is VFormsInfo && (op.vFormId == nil || op.vFormId == "") {
-                print("A Vform ID is needed to use VForms, please change your \"info\" argument if you don't intend to use Vforms")
+                print("A Vform ID is needed to use VForms, please change your \"info\" argument if you don't intend to use Vforms ")
                 return
             }
         }
